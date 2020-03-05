@@ -62,7 +62,7 @@ The easiest way to open an RDP session is using the web client by going to https
 
 - Once the RDP session is established, open a terminal within the the remote desktop environment.
 - Go to the location of your images or data for more convenient access
-- Load the Agisoft Metashape software by entering `module load geology/agisoft/metashape`
+- Load the Agisoft Metashape software by entering `module load geology/agisoft/metashape-pro/1.5.4`
 
 ### Request a node/server to run the calculations in
 
